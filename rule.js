@@ -3,8 +3,8 @@
  * @author hushicai(bluthcy@gmail.com)
  */
 
-import settings from '../vendor/spider-settings/conf/redis';
-import createClient from '../lib/createClient'
+import settings from 'spider-settings/conf/redis';
+import createClient from './lib/createClient'
 
 const client = createClient(settings.rule_redis_db);
 

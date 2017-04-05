@@ -1,6 +1,0 @@
-[submodule "vendor/spider-settings"]
-	path = vendor/spider-settings
-	url = git@github.com:hushicai/spider-settings
-[submodule "vendor/spider-utils"]
-	path = vendor/spider-utils
-	url = git@github.com:hushicai/spider-utils
