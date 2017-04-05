@@ -1,6 +1,3 @@
-[submodule "vendor/my-utils"]
-	path = vendor/my-utils
-	url = git@github.com:hushicai/my-utils
 [submodule "vendor/spider-settings"]
 	path = vendor/spider-settings
 	url = git@github.com:hushicai/spider-settings
